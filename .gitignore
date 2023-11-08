@@ -1,2 +1,8 @@
 *.mdf
 *.ldf
+OptimalPlayAI/.vs
+OptimalPlayAI/x64
+*.sln
+*.vcxproj
+*.filters
+*.user
