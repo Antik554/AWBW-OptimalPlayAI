@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\awbw-optimalplayai\\optimalplayai\\game.ixx",
+        "ProvidedModule": "Game",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
