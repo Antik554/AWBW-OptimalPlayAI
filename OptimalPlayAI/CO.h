@@ -11,7 +11,6 @@ private:
 	int powerBar;
 	int power;
 	int super;
-	int* terrainCosts;
 
 };
 }
